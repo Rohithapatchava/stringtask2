@@ -1,0 +1,7 @@
+D:\Rohitha\c sharp\stringtask2\stringtask2\bin\Debug\stringtask2.exe.config
+D:\Rohitha\c sharp\stringtask2\stringtask2\bin\Debug\stringtask2.exe
+D:\Rohitha\c sharp\stringtask2\stringtask2\bin\Debug\stringtask2.pdb
+D:\Rohitha\c sharp\stringtask2\stringtask2\obj\Debug\stringtask2.csprojResolveAssemblyReference.cache
+D:\Rohitha\c sharp\stringtask2\stringtask2\obj\Debug\stringtask2.csproj.CoreCompileInputs.cache
+D:\Rohitha\c sharp\stringtask2\stringtask2\obj\Debug\stringtask2.exe
+D:\Rohitha\c sharp\stringtask2\stringtask2\obj\Debug\stringtask2.pdb
